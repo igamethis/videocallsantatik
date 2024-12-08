@@ -3,14 +3,14 @@
         {
             "tiktokID":  "7444488284048326674",
           
-            "network": "admob",
+            "network": "is",
             
             "max_ban": "41520d44e3d06b49",
             "max_int": "261588b3776ba31b",
             
-            "is_app_key": "2386892364823",
-            "is_ban": "2386892364823",
-            "is_int": "2386892364823",
+            "is_app_key": "20626d635",
+            "is_ban": "ri1dbpy033c3fydf",
+            "is_int": "gsn9j9uilr1elggm",
             "admob_ban": "ca-app-pub-7814511321784748/7474881558",
             "admob_int": "ca-app-pub-7814511321784748/6185679170",
             "admobappid":"ca-app-pub-7814511321784748~8787963223",
